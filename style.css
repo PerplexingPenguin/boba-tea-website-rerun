@@ -19,7 +19,7 @@ body {
     flex-direction: row;
     padding: 10px;
     justify-content: center;
-    background: url("catbg.png") antiquewhite;
+    background: url("images/catbg.png") antiquewhite;
     background-size: 100px;
     width: 1000px;
     margin: 0 auto;
